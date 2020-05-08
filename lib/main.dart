@@ -42,6 +42,16 @@ class MyApp extends StatelessWidget {
     items.add(new WebBean("各种小说生成器", "http://wb.newbfun.com/"));
     items.add(new WebBean("彩虹屁生成器", "https://chp.shadiao.app/"));
     items.add(new WebBean("为所欲为成语生成器", "https://lab.bangbang93.com/wsyw"));
+    items.add(new WebBean("Silk – Interactive Generative Art", "http://weavesilk.com/"));
+    items.add(new WebBean("Mikutap", "https://aidn.jp/mikutap/"));
+    items.add(new WebBean("小人的冒险之旅", "http://www.webhek.com/post/draw-a-stickman.html"));
+    items.add(new WebBean("天空有多高", "http://www.secaibi.com/howbigisspace/"));
+    items.add(new WebBean("线条骑士", "https://www.linerider.com/"));
+    items.add(new WebBean("全历史：原来历史还可以这么玩！！", "https://www.allhistory.com/"));
+    items.add(new WebBean("小鸡词典", "https://jikipedia.com/"));
+    items.add(new WebBean("Buttsss", "https://www.buttsss.com/"));
+    items.add(new WebBean("环游世界", "http://www.airpano.org.cn/"));
+    items.add(new WebBean("知妖", "http://www.cbaigui.com/"));
     return new MaterialApp(
       title: title,
       home: new Scaffold(
